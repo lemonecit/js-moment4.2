@@ -6,28 +6,32 @@
         "City": "Holon",
         "Website": "https://studenter.miun.se/~pile2100/dt084g/"
       },
-      "websites": {
-        "sitename": [
-          "Syntax",
-          "Github",
-          "MDN Web docs",
-          "CodePen",
-          "W3schools"
-        ],
-        "siteurl": [
-          "https://syntax.fm/",
-          "https://github.com/",
-          "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-          "https://codepen.io",
-          "https://www.w3schools.com/"
-        ],
-        "Description": [
-          "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
-          "GitHub is where people build software. More than 65 million people use GitHub to discover, fork, and contribute to over 200 million projects.",
-          "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.",
-          "An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.",
-          "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more."
-        ]
+      "websites": [
+      {
+        "sitename": "Syntax",
+        "siteurl":  "https://syntax.fm/",
+        "description": "Coolt blogg."
+      },
+      {
+        "sitename":   "Github",
+        "siteurl":    "https://github.com/",
+        "description": "Jättebra webbaserad lagring"
+      },
+      {
+        "sitename":    "MDN Web docs",
+        "siteurl":     "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "description": "Mycket värdefull reference och tips"
+      },
+      {
+        "sitename":    "CodePen",
+        "siteurl":     "https://codepen.io",
+        "description": "Perfekt utvecklingsmiljö att testa i"
+      },
+      {
+        "sitename":    "W3schools",
+        "siteurl":     "https://www.w3schools.com/",
+        "description": "Stor webblexikon på nätet"
       }
-    }
+    ]   
   }
+}
